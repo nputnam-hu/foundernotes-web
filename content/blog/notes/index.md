@@ -5,7 +5,7 @@ date: '2020-08-22'
 
 ![](./Elon_Musk.png)
 
-People think of memes as an internet phenomenon, but memes are as old as people are. Memes, as [defined in the 70s by Richard Dawkins](https://en.wikipedia.org/wiki/Meme#Dawkins), are just ideas that spread from person to person. The internal combustion engine is a meme, as is Apple Computers, the United States of America, and Christianity. Memes are our collective cultural conscious. They unite us and they divide us.
+People think of memes as an internet phenomenon, but in fact memes are as old as people are. Memes, as [defined in the 70s by Richard Dawkins](https://en.wikipedia.org/wiki/Meme#Dawkins), are just ideas that spread from person to person. The internal combustion engine is a meme, as is Apple Computers, the United States of America, and Christianity. Memes are our collective cultural conscious. They unite us and they divide us.
 
 While the internet didn’t invent memes, it did pour gasoline on them. The web is a whole substrate of society that primarily runs on memes. In cyberspace, people have limited context on who you are: they pull apart whatever snippets they can find — your bio, your profile picture, the content of your message — and use that to craft their perception of you. People interact on social media through memes filtered through these sparse data points. The self-aggrandizing wannabe influencer, VSCO girls and e-boys, “reply guys” of all varieties — these memes are the building blocks that shape your social experience online.
 

@@ -1,5 +1,5 @@
 ---
-title: '3: Side Hustle Culture'
+title: '2: Side Hustle Culture'
 date: '2020-08-23'
 ---
 

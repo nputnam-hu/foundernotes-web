@@ -26,7 +26,7 @@ class Article extends Component {
     const { data, sidebarScrollHeight = 0 } = this.props
     const articles = data.articles.nodes
     return (
-      <Layout>
+      <Layout title={data.article.frontmatter.title}>
         <Navbar />
         <div style={{ height: 60 }} />
         <div className={styles.articleView}>
