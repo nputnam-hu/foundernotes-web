@@ -1,0 +1,28 @@
+@import '../../../styles/_vars'
+
+.articleBody
+  width: 60%
+  display: flex
+  flex-direction: column
+  align-items: center
+  margin: 20px auto
+  // account for sidebar
+  padding-left: 355px
+  @media ($mobileBreak)
+    padding: 0
+    width: 90%
+
+  h1
+    margin-right: auto
+    margin-bottom: 10px
+    font-size: 40px
+  span
+    margin-right: auto
+    font-size: 17px
+    color: $grey1
+
+.articleBody__html
+  font-size: 19px
+  line-height: 167%
+  img
+    margin-right: auto

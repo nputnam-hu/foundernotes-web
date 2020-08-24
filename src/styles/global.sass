@@ -1,0 +1,30 @@
+@import 'vars'
+
+html
+    margin: 0
+    padding: 0 !important
+    overflow-x: hidden
+    font-family: $primaryFont
+
+body
+    min-height: 100vh
+    margin: 0
+    background: $siteBackground
+    color: $white1
+    font-family: $primaryFont !important
+    a
+        box-shadow: none
+        text-decoration: none
+        color: $linkColor
+        &:hover
+            text-decoration: underline
+
+blockquote
+    background: #f9f9f9
+    border-left: 10px solid #ccc
+    margin: 0
+    padding: 0.5em 10px
+    quotes: "\201C""\201D""\2018""\2019"
+
+blockquote p
+    display: inline

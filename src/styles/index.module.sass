@@ -1,0 +1,30 @@
+@import 'vars'
+
+.index
+  display: flex
+  flex-direction: column
+  margin: 0 60px
+  h1
+    font-family: $titleFont
+    color: $pink1
+    font-size: 90px
+    margin-bottom: 20px
+    margin-left: 5px
+    text-decoration: underline
+  @media ($mobileBreak)
+    margin: 10px
+    h1
+      font-size: 80px
+      magin-left: 0
+
+.app
+  display: flex
+  flex-direction: column
+  ul
+    font-size: 24px
+    li
+      margin-top: 15px
+    @media ($mobileBreak)
+      font-size: 40px
+      li
+        margin-top: 30px

@@ -1,0 +1,37 @@
+@import '../../../styles/vars'
+
+.fullBar
+    display: none
+    @media ($mobileBreak)
+        display: inline
+
+.reducedBar
+    display: flex
+    flex-direction: row
+    width: 140px
+    flex-direction: row
+    min-height: 80vh
+    @media ($mobileBreak)
+        display: none
+
+.reducedBar__logo
+    left: 20px
+    position: fixed
+
+.progressbar
+    position: fixed
+    top: 0
+    left: 130px
+    display: flex
+    flex-direction: column
+    height: 100%
+    align-items: center
+
+.progressbar__gradient
+    background: linear-gradient(#FFFB96, #FF71CE)
+    width: 4px
+    border-radius: 2px
+
+.progressbar__grey
+    background: $dividerColor
+    width: 2px
