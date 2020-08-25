@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `E-conomy: a publication on crypto, creators, and the future`,
+    title: `Noah Putnam: notes about fintech, startups, and philosophy`,
     author: `Noah Putnam`,
-    description: `An exploration of the intersection of money and technology for creators, designers, and hackers`,
-    siteUrl: `https://e-conomy.nyc/`,
+    description: `A journal of my experience building a fintech startup and what it takes to build something people actually want.`,
+    siteUrl: `https://noahputnam.com/`,
     social: {
       twitter: `noah_putnam`,
     },

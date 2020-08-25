@@ -1,17 +1,18 @@
 ---
 title: '1: Dont be a meme'
 date: '2020-08-25'
+ogImage: './Elon_Musk.png'
 ---
 
 ![](./Elon_Musk.png)
 
 People think of memes as an internet phenomenon, but in fact memes are as old as people are. Memes, as [defined in the 70s by Richard Dawkins](https://en.wikipedia.org/wiki/Meme#Dawkins), are just ideas that spread from person to person. The internal combustion engine is a meme, as is Apple Computers, the United States of America, and Christianity. Memes are our collective cultural conscious. They unite us and they divide us.
 
-While the internet didn’t invent memes, it did pour gasoline on them. The web is a whole substrate of society that primarily runs on memes. In cyberspace, people have limited context on who you are: they pull apart whatever snippets they can find — your bio, your profile picture, the content of your message — and use that to craft their perception of you. People interact on social media through memes filtered through these sparse data points. The self-aggrandizing wannabe influencer, VSCO girls and e-boys, “reply guys” of all varieties — these memes are the building blocks that shape your social experience online.
+While the internet didn’t invent memes, it did pour gasoline on them. The web is a whole substrate of society that primarily runs on memes. In cyberspace, people have limited context on who you are. They pull apart whatever snippets they can find — your bio, your profile picture, the content of your message — and use that to craft their perception of you. People use memes to turn those sparse data points into a defined persona. The self-aggrandizing influencer, VSCO girls and e-boys, “reply guys” of all varieties — memes are the building blocks that shape your social experience online.
 
 While it would be nice to think that it only happens on the internet, people use memes to judge each other all of the time. During job interviews, parties, first dates, etc. people sort each other through all kinds of memes to try to understand them: “Is he a nice person?”, “Is she a 10x engineer?”, “Are they trustworthy?”.
 
-Everyone matches some memes, but it is very important not to _be_ a meme. Memes are inherently reductive: their purpose is to simplify the world for our consumption. When you’re judged by another person to be a meme, they are saying that they have you totally figured out. But what people actually want from relationships — whether they are romantic, professional, or otherwise — is mystery. There is no mystery in a meme: only a surface-level imprint, a permutation of weights in a society-shaped neural network.
+Everyone matches some memes, but it is very important not to _be_ a meme. Memes are inherently reductive: their purpose is to simplify the world for our consumption. When you’re judged by another person to be a meme, they are saying that they have you totally figured out. You have nothing to offer them. What people want from relationships — whether they are romantic, professional, or otherwise — is mystery. There is no mystery in a meme: only a surface-level imprint, a permutation of weights in a society-shaped neural network.
 
 ![](./Dwight_meme.png)
 

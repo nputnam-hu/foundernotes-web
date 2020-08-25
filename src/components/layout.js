@@ -1,12 +1,10 @@
 import React from 'react'
-import Helmet from 'react-helmet'
+import SEO from './seo'
 import '../styles/global.sass'
 
-const Layout = ({ location, title, children }) => (
+const Layout = ({ location, title, children, ogImage }) => (
   <div>
-    <Helmet titleTemplate="%s | Noah Putnam">
-      <title>{title}</title>
-    </Helmet>
+    <SEO title={title} ogImage={ogImage} />
     <main>{children}</main>
     <footer></footer>
   </div>

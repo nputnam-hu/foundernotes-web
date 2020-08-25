@@ -7,26 +7,15 @@ import ArticleList from './ArticleList'
 import styles from './styles.module.sass'
 import ArticleBody from './ArticleBody'
 
-// const explodeArr = articles => [
-//   ...articles.map(a => ({
-//     ...a,
-//   })),
-//   ...articles.map(a => ({
-//     ...a,
-//     id: `${a.id}${Math.random()}`,
-//   })),
-//   ...articles.map(a => ({
-//     ...a,
-//     id: `${a.id}${Math.random()}`,
-//   })),
-// ]
-
 class Article extends Component {
   render() {
     const { data, sidebarScrollHeight = 0 } = this.props
     const articles = data.articles.nodes
     return (
-      <Layout title={data.article.frontmatter.title}>
+      <Layout
+        title={data.article.frontmatter.title}
+        ogImage={data.article.frontmatter.ogImage.publicURL}
+      >
         <Navbar />
         <div style={{ height: 60 }} />
         <div className={styles.articleView}>
@@ -70,13 +59,9 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        # ogImage {
-        #   childImageSharp {
-        #     sizes(maxWidth: 1000) {
-        #       src
-        #     }
-        #   }
-        # }
+        ogImage {
+          publicURL
+        }
       }
     }
   }
