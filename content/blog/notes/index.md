@@ -1,6 +1,6 @@
 ---
 title: '1: Dont be a meme'
-date: '2020-08-22'
+date: '2020-08-25'
 ---
 
 ![](./Elon_Musk.png)
@@ -19,6 +19,6 @@ This topic is on my mind because we’ve been fundraising lately. Venture Capita
 
 The problem is that every venture capitalist has a set of negative memes: ideas that they have decided should never be invested in. Investors will spend every minute of the pitch seeing if they can match your company to one of these memes: “Do they have a bad business model”, “Are the founders gonna flame out once they scale?” “Is the company similar to Y-startup-that-recently-failed?”. The second a match registers, you lose them. Sometimes you lose them in the first 2 seconds. It can be very frustrating.
 
-Now these concerns are generally hard-earned lessons from the volatile history of Silicon Valley. But often the best ideas lay just in the shadow of these negative memes. Everyone who considers the idea mistakenly pattern matches it to one of these canonical bad ideas until eventually someone discovers that with some creative thinking and funding there is fertile ground there. We think OverEasy is an idea like that, and we’ve got some great backers so far who share that vision. But nobody can escape memes, including us: OverEasy itself is a meme. The best we can do is evade them.
+Now such concerns are generally hard-earned lessons from the volatile history of Silicon Valley. But often the best ideas lay just in the shadow of these negative memes. Everyone who considers the idea mistakenly pattern matches it to one of these canonical bad ideas until eventually someone discovers that with some creative thinking and funding there is fertile ground there. We think OverEasy is an idea like that, and we’ve got some great backers so far who share that vision. But nobody can escape memes, including us: OverEasy itself is a meme. The best we can do is evade them.
 
 So next time you feel the urge to use the word “synergy” at a meeting or consider rocking a fedora with cargo shorts, remember: don’t be a meme.
